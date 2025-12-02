@@ -2,6 +2,10 @@
 
 Repositório dedicado ao desenvolvimento de dashboards interativos com foco em visualização de dados, alternância de temas e autenticação de usuários. Criado com **React**, **TypeScript** e **Styled Components**, este projeto consolida boas práticas de arquitetura front-end e componentes reutilizáveis.
 
+## Objetivo 
+
+Durante o curso da Udemy, desenvolvi um Dashboard em React.js e TypeScript, sendo essa minha primeira experiência real com a linguagem.
+
 ## 🚀 Tecnologias utilizadas
 
 - React
